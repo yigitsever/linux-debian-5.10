@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: GPL-2.0
 VERSION = 5
 PATCHLEVEL = 10
-SUBLEVEL = 84
-EXTRAVERSION =
+SUBLEVEL = 0
+EXTRAVERSION = -10-amd64
 NAME = Dare mighty things
 
 # *DOCUMENTATION*
